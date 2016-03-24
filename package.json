@@ -1,6 +1,6 @@
 {
   "name": "eminem-css",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "The sleek, intuitive, responsive and scalable modern asynchrenous lightweight front-end framework",
   "main": "index.js",
   "scripts": {

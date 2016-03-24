@@ -1,13 +1,13 @@
 {
-  "name": "eminem.css",
-  "version": "0.0.0",
-  "description": "",
+  "name": "eminem-css",
+  "version": "1.0.0",
+  "description": "The sleek, intuitive, responsive and scalable modern asynchrenous lightweight front-end framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "BSD-2-Clause",
+  "author": "Marko Klopets (https://klopets.com)",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "~3.1.0",

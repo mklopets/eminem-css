@@ -42,15 +42,15 @@ eminem-css/
 │   ├──eminem.css
 ├── scss/
 │   ├──eminem.scss
-├── fonts/
+└── fonts/
     ├──eminem.otf
     ├──eminem.svg
     ├──eminem.ttf
     ├──eminem.woff
-    ├──eminem.woff2
+    └──eminem.woff2
 ```
 
-Please note that some of the provided eminem fonts might not work entirely as expected at the time of release. We are passively working to resolve the issue.
+Please note that some of the provided eminem fonts might not work entirely as expected at the time of release. We are passively working to resolve the issue. Also note that the directory structure shown here is not current as of v1.0.0.
 
 ## Bugs and feature requests
 

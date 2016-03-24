@@ -14,7 +14,7 @@ Several quick start options are available:
 
 * [Download the latest release](https://github.com/mklopets/eminem-css/archive/master.zip)
 * Clone the repo: ``git clone https://github.com/mklopets/eminem-css.git``
-* Install with ``npm``: ``npm install eminem-css``
+* Install with [npm](https://www.npmjs.com): ``npm install eminem-css``
 
 You can have a look at the Getting Started page of the repo in ``docs/index.html`` for examples on usage.
 

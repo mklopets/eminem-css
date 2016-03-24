@@ -4,13 +4,15 @@
 ![everything ok](https://img.shields.io/badge/everything-ok-yellow.svg)
 ![vc funding failing :( (contact us)](https://img.shields.io/badge/vc%20funding-failing-red.svg)
 
-**eminem.css** is a sleek, intuitive, responsive and scalable modern asynchrenous lightweight front-end framework for both large and tiny web applications. It works by using well established best practices and modern web standards. eminem.css was created by [Marko Klopets](https://klopets.com) and is maintained by the [core team](https://klopets.com) with the massive support and involvement of our healthy and active community.
+**eminem.css** is a sleek, intuitive, responsive and scalable modern asynchrenous lightweight front-end framework for both large and tiny web applications.
+
+It works by using well established best practices and modern web standards. eminem.css was created by [Marko Klopets](https://klopets.com) and is maintained by the [core team](https://klopets.com) with the massive support and involvement of our healthy and active community.
 
 ## Quick start
 
 Several quick start options are available:
 
-* [Download the latest release]()
+* [Download the latest release](https://github.com/mklopets/eminem-css/archive/master.zip)
 * Clone the repo: ``git clone https://github.com/mklopets/eminem-css.git``
 * Install with ``npm``: ``npm install eminem-css``
 

@@ -8,16 +8,6 @@
 
 It works by using well established best practices and modern web standards. eminem.css was created by [Marko Klopets](https://klopets.com) and is maintained by the [core team](https://klopets.com) with the massive support and involvement of our healthy and active community.
 
-## Quick start
-
-Several quick start options are available:
-
-* [Download the latest release](https://github.com/mklopets/eminem-css/archive/master.zip)
-* Clone the repo: ``git clone https://github.com/mklopets/eminem-css.git``
-* Install with [npm](https://www.npmjs.com): ``npm install eminem-css``
-
-You can have a look at the Getting Started page of the repo in ``docs/index.html`` for examples on usage.
-
 ## Usage basics
 
 Use the ``white-wrapper`` class on an element to turn it into an eminem element. This will automatically apply all of the necessary styles and scripts for the specified element.
@@ -33,6 +23,16 @@ You can use the two methods interchangeably as shown here:
 </div>
 <span data-white-wrapper="eminem">Eminem</span>
 ```
+
+## Quick start
+
+Several quick start options are available:
+
+* [Download the latest release](https://github.com/mklopets/eminem-css/archive/master.zip)
+* Clone the repo: ``git clone https://github.com/mklopets/eminem-css.git``
+* Install with [npm](https://www.npmjs.com): ``npm install eminem-css``
+
+You can have a look at the Getting Started page of the repo in ``docs/index.html`` for examples on usage.
 
 ## What's included
 

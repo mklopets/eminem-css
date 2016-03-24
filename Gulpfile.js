@@ -4,6 +4,9 @@ var autoprefixer = require('gulp-autoprefixer');
 var environments = require('gulp-environments');
 var runSequence = require('run-sequence');
 
+var uglify = require('gulp-uglify');
+var rename = require("gulp-rename");
+
 var development = environments.development;
 var production = environments.production;
 
@@ -20,8 +23,18 @@ gulp.task('styles', function() {
         .pipe(gulp.dest('./dist/css/'))
 });
 
+gulp.task('compress', function() {
+	return gulp.src('js/**/*.js')
+		.pipe(production(uglify()))
+		.pipe(rename({
+			extname: '.min.js'
+		}))
+		.pipe(gulp.dest('./dist/js/'))
+});
+
 
 gulp.task('default',function() {
-	runSequence('styles');
+	runSequence('styles', 'compress');
 	gulp.watch('scss/**/*.scss',['styles']);
+	gulp.watch('js/**/*.js',['compress']);
 });

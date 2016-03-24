@@ -18,7 +18,7 @@ Several quick start options are available:
 
 You can have a look at the Getting Started page of the repo in ``docs/index.html`` for examples on usage.
 
-Here are the basics:
+## Usage basics
 
 Use the ``white-wrapper`` class on an element to turn it into an eminem element. This will automatically apply all of the necessary styles and scripts for the specified element.
 

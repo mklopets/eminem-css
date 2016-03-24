@@ -1,0 +1,4 @@
+.white-wrapper, [data-white-wrapper="eminem"] {
+  color: white !important;
+  background: white !important;
+}
